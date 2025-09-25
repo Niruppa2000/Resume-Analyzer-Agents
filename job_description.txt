@@ -1,0 +1,20 @@
+Job Title: AI/ML Engineer – Fresher
+
+We are looking for an enthusiastic AI/ML Engineer to join our team in Bangalore.
+
+Responsibilities:
+- Work on machine learning and deep learning model development.
+- Assist in building and deploying NLP and computer vision models.
+- Perform data preprocessing, feature engineering, and model evaluation.
+- Collaborate with senior engineers to develop scalable AI pipelines.
+
+Required Skills:
+- Strong Python programming knowledge.
+- Familiarity with machine learning algorithms (regression, classification, clustering).
+- Basics of deep learning using TensorFlow or PyTorch.
+- Understanding of NLP concepts such as embeddings, transformers, and sentiment analysis.
+- Knowledge of time series analysis is a plus.
+- Good problem-solving and communication skills.
+
+Location: Bangalore
+Experience: 0–1 years
